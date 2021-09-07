@@ -1,0 +1,24 @@
+
+
+#mover1
+{
+    position: absolute;
+    border: solid 1px;
+    
+}
+
+
+#mover2
+{
+    position: absolute;
+    border: dashed 1px;
+    
+   
+}
+
+#mover3
+{
+    position: absolute;
+    border: solid 1px;
+}
+
